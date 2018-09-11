@@ -1,3 +1,15 @@
 * {
 	text-align: center;
 }
+
+h1 {
+	color: #2ba2c6;
+}
+
+h2 {
+	color: white;
+}
+
+body {
+	background-image: url("https://edge.alluremedia.com.au/m/g/2015/09/tesla_model_x.jpg");
+}
