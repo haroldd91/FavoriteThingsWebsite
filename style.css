@@ -8,10 +8,20 @@ h1 {
 
 h2 {
 	color: black;
+	font-size: 40px;
+	color: limegreen;
 }
 
 body {
 	background-image: url("https://edge.alluremedia.com.au/m/g/2015/09/tesla_model_x.jpg");
+	background-position: center;
+}
+#favoritething .content1 h2 {
+	background-image: url(https://www.tesla.com/sites/default/files/images/model-x/section-hero-background.jpg?20180607);
+	background-size: cover;
+	background-position: bottom center;
+	width: 1440px;
+	height: 600px;
 }
 #favoritething2 .content h2 {
 	background-image: url(https://i.ytimg.com/vi/oBI0MU73nlc/maxresdefault.jpg);
@@ -19,5 +29,20 @@ body {
 	background-position: bottom center;
 	width: 1440px;
 	height: 600px;
+	text-align: center;
+	margin: 0 auto;
+}
 
+.share a {
+	background: green;
+	border: 5px dashed black;
+	color: white;
+	display: inline-block;
+}
+#favoritething3 .content2 h2 {
+	background-image: url(https://cdn.vox-cdn.com/thumbor/SInNRowpVWlCqGdFphx5EaCtXbw=/0x209:1800x1222/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/54826767/overwatch_oneyear.0.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 1440px;
+	height: 600px;
 }
